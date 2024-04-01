@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+body header{
+    color: white;
+    font-size: 50px;
+    margin-left: 300PX;
+}
+
+nav.menu-nav{
+    position: absolute;
+    background-color: aqua;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #333333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav.menu-nav {
+    
+}
